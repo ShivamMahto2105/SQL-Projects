@@ -6,7 +6,7 @@ Welcome to the **SQL folder** of my GitHub repository. This directory contains a
 
 ## 📁 Project List
 
-- 🎓 [College1 DB](./college1.sql) — Basic student database with queries and updates.
+- 🎓 [College1 DB](https://github.com/ShivamMahto2105/SQL-Projects/tree/main/1_Class%20Projects) — Basic student database with queries and updates.
 
 
 > *Note: New projects will be added as I continue learning and building!*
@@ -55,10 +55,5 @@ This folder is **regularly updated**, so feel free to check back for new files a
 
 ---
 
-## 📧 Contact
-
-**Your Name**  
-📫 [youremail@example.com](mailto:youremail@example.com)  
 🌐 [GitHub Profile](https://github.com/yourusername)
 
----

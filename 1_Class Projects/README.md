@@ -118,5 +118,6 @@ VALUES
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+-  [LinkedIn](https://www.linkedin.com/in/shivam-kumar-mahto-b7a84a311) 
+ - [GitHub](https://github.com/yourusername)
 
